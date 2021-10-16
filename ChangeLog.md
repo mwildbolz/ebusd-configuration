@@ -1,3 +1,7 @@
+# 2021-10-16
+* added manualCooling
+* added opModeCooling 
+ 
 # 2021-02-20
 * made vaillant/broadcast vdatetime writable to installer
 * added value 4=hwc to vaillant pumpstate
