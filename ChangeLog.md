@@ -1,6 +1,7 @@
 # 2021-10-16
 * added manualCooling
-* added opModeCooling 
+* added opModeCooling
+* added additional HMU functions/values
  
 # 2021-02-20
 * made vaillant/broadcast vdatetime writable to installer
