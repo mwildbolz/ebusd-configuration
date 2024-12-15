@@ -1,3 +1,6 @@
+# 2024-12-15
+* added additional 08.hmu statistics
+
 # 2021-10-16
 * added manualCooling
 * added opModeCooling
